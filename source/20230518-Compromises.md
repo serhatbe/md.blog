@@ -1,4 +1,5 @@
 ## Compromises
+
 Tried several options:
 
 * Static site generators, Jekyll-based options and Python scripts

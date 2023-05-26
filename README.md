@@ -1,3 +1,5 @@
+For public website [click here](https://serhatbe.github.io/md.blog/source/index.html)
+
 ## Casual-Markdown-Blog
 Based on Casual-Markdown, [please see](https://casualwriter.github.io/casual-markdown/blog)
 

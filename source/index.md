@@ -24,15 +24,10 @@ h1 { border-bottom:1px dotted grey }
 
 <div id="md-post">
 # Hello World
-This is where I try to post regularly, for example my fleeting notes, literature notes, reference notes, permanent notes, etc. during the day.
 
-A new start which is marked by the day 15-May-2023. But there are notes that predate 15th of May, because the habit goes way back and the notes might appear as archived material.
+* 2023/05/19: [New System](20230519-system.md) { #notes }
 
-* 2023/05/20: [Markdown Sample](20230520-markdown-blog.md) { #md }
-
-* 2023/05/19: [New System](20230519-system.md) { #md }
-
-* 2023/05/19: [Playing the Changes](20230519-Changes.md) { #md }
+* 2023/05/19: [Playing the Changes](20230519-Changes.md) { #music }
 
 * 2023/05/18: [Compromises](20230518-Compromises.md) { #Zettlr }
 
@@ -40,7 +35,7 @@ A new start which is marked by the day 15-May-2023. But there are notes that pre
 
 # Archives
 
-* 2023/04/26: [Basic .md Syntax ](20230426-Test.md) { #md }
+* 2023/04/26: [Basic .md Syntax](20230426-syntax.md) { #md }
 
 * 2023/04/09: [Fix](20230409-How_to_Fix.md) { #notes }
 
