@@ -32,13 +32,13 @@ A new start which is marked by the day 15-May-2023. But there are notes that pre
 
 # Archives
    
-### Aug 2022
+<!-- ### Aug 2022
                     
 * 2022/08/20: [Markdown as blog](20220820-markdown-as-blog.md) { #markdown, #featured }
 * 2022/08/10: [Is RegExp readable?](20220810-is-regexp-readable.md) { #regexp }
 
 ### July 2022
                     
-* 2022/07/31: [release of casual-markdown v0.90](20220731-casual-markdown-v0.90.md) { #markdown, #regexp }
+* 2022/07/31: [release of casual-markdown v0.90](20220731-casual-markdown-v0.90.md) { #markdown, #regexp } -->
 
 </div>
