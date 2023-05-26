@@ -29,10 +29,10 @@ This is where I try to post regularly, for example my fleeting notes, literature
 A new start which is marked by the day 15-May-2023. But there are notes that predate 15th of May, because the habit goes way back and the notes might appear as archived material.
 
 ## [Test](20230526-Test.md)
-date:2023-05-26, tags: { #markdown, #featured }
+date:2023-05-26, tags: `#markdown, #featured`
 
 ## [Markdown as blog](20220820-markdown-as-blog.md)
-date:2022-08-20, tags: { #markdown, #featured }
+date:2022-08-20, tags: `#markdown`
 
 # Archives
    
