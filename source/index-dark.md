@@ -1,13 +1,12 @@
 -----------------------------------------------------------------------------
 github     : https://github.com/casualwriter/casual-markdown-blog
-title      : Sample Blog (Dark Theme)
+title      : My Blog (Dark Theme)
 subtitle   : Simple is the best
 nav-group  : featured, new-3, tags, months
 nav-width  : 320px
 theme      : dark
 menu       : 
    Home    : ?
-   github  : https://github.com/casualwriter/casual-markdown-blog
    About   : ?page=about.md
 -----------------------------------------------------------------------------
 <style comment="additional style">

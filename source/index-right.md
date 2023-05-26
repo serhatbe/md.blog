@@ -1,13 +1,11 @@
 -----------------------------------------------------------------------------
 github     : https://github.com/casualwriter/casual-markdown-blog
-title      : Casual-Markdown-Blog 
-subtitle   : By Casual-Markdown-Blog
-nav-group  : featured, new-5, tags, months
-nav-width  : 380px
+title      : My Blog 
+subtitle   : Simple is the best
+nav-group  : featured, new-3, tags, months
+nav-width  : 320px
 menu       : 
    Home    : ?
-   github  : https://github.com/casualwriter/casual-markdown-blog
-   Dark    : javascript:darkmode()
    About   : ?page=about.md
 -----------------------------------------------------------------------------
 <style comment="show nav at right">

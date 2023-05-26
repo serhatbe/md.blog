@@ -7,7 +7,6 @@ nav-width  : 320px
 css-header : background:linear-gradient(to bottom right, #06c, #fc0); color:white
 menu       : 
    Home    : ?
-   Dark    : javascript:darkmode()
    About   : ?page=about.md
 -----------------------------------------------------------------------------
 <style comment="additional style">
@@ -30,19 +29,11 @@ h1 { border-bottom:1px dotted grey }
 > date:2023/05/26, tags: `#markdown`
 > Test file...
 
-
-## [Build online resume by markdown](20220927-markdown-as-resume.md)
-> date:2022/09/27, tags: `#markdown`
-
 ## [Markdown as blog](20220820-markdown-as-blog.md)
 > date:2022/08/20, tags: `#markdown` 
 
 
 # Archives
-
-### Sep 2022
-
-* 2022/09/28: [Build online resume by markdown](20220927-markdown-as-resume.md) { #markdown }
    
 ### Aug 2022
                     
