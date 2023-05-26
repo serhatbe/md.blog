@@ -1,10 +1,10 @@
 -----------------------------------------------------------------------------
-github     : https://github.com/casualwriter/casual-markdown-blog
-title      : My Blog 
-subtitle   : Simple is the best
+<!-- github     : https://github.com/casualwriter/casual-markdown-blog -->
+title      : Continuum 
+subtitle   : No pause, no hurry
 nav-group  : featured, new-3, tags, months
 nav-width  : 320px
-css-header : background:linear-gradient(to bottom right, #06c, #fc0); color:white
+css-header : background:linear-gradient(to left, rgba(255,0,0,0), rgba(255,0,0,1); color:white
 menu       : 
    Home    : ?
    About   : ?page=about.md
@@ -23,15 +23,16 @@ h1 { border-bottom:1px dotted grey }
 </style>
 
 <div id="md-post">
-# Featured
+# Hello World
+This is where I try to post regularly, for example my fleeting notes, literature notes, reference notes, permanent notes, etc. during the day.
+
+A new start which is marked by the day 15-May-2023. But there are notes that predate 15th of May, because the habit goes way back and the notes might appear as archived material.
 
 ## [Test](20230526-Test.md)
-> date:2023/05/26, tags: `#markdown`
-> Test file...
+date:2023-05-26, tags: { #markdown, #featured }
 
 ## [Markdown as blog](20220820-markdown-as-blog.md)
-> date:2022/08/20, tags: `#markdown` 
-
+date:2022-08-20, tags: { #markdown, #featured }
 
 # Archives
    
