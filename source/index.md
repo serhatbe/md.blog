@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------
-<!-- github     : https://github.com/casualwriter/casual-markdown-blog -->
+github     : https://github.com/casualwriter/casual-markdown-blog
 title      : Continuum 
 subtitle   : No pause, no hurry
 nav-group  : featured, new-3, tags, months
