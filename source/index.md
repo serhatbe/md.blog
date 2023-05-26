@@ -2,7 +2,7 @@
 github     : https://github.com/casualwriter/casual-markdown-blog
 title      : Continuum 
 subtitle   : No pause, no hurry
-nav-group  : featured, new-3, tags, months
+nav-group  : featured, new-2, tags, months
 nav-width  : 320px
 css-header : background:linear-gradient(to left, rgba(255,0,0,0), rgba(255,0,0,1); color:white
 menu       : 
@@ -29,10 +29,10 @@ This is where I try to post regularly, for example my fleeting notes, literature
 A new start which is marked by the day 15-May-2023. But there are notes that predate 15th of May, because the habit goes way back and the notes might appear as archived material.
 
 ## [Test](20230526-Test.md)
-date:2023-05-26, tags: `#markdown, #featured`
+date:2023/05/26, tags: `#featured`
 
 ## [Markdown as blog](20220820-markdown-as-blog.md)
-date:2022-08-20, tags: `#markdown`
+date:2022/08/20, tags: `#markdown`
 
 # Archives
    
