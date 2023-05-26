@@ -26,6 +26,11 @@ h1 { border-bottom:1px dotted grey }
 
 <div id="md-post">
 # Featured 
+## [Test](20230526-Test.md)
+> date:2023/05/26, tags: `#markdown`
+> 
+> build blog site by markdown files in minutes.
+> host on github, or other static web hosting  
 
 ## [Markdown as blog](20220820-markdown-as-blog.md)
 > date:2022/08/20, tags: `#markdown`
