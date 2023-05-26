@@ -28,17 +28,8 @@ This is where I try to post regularly, for example my fleeting notes, literature
 
 A new start which is marked by the day 15-May-2023. But there are notes that predate 15th of May, because the habit goes way back and the notes might appear as archived material.
 
-* 2023/05/20: [Markdown as blog 2](20230520-markdown-blog.md) { #markdown, #featured }
+* 2023/05/20: [Markdown Sample](20230520-markdown-blog.md) { #markdown, #featured }
 
 # Archives
-   
-<!-- ### Aug 2022
-                    
-* 2022/08/20: [Markdown as blog](20220820-markdown-as-blog.md) { #markdown, #featured }
-* 2022/08/10: [Is RegExp readable?](20220810-is-regexp-readable.md) { #regexp }
-
-### July 2022
-                    
-* 2022/07/31: [release of casual-markdown v0.90](20220731-casual-markdown-v0.90.md) { #markdown, #regexp } -->
 
 </div>
