@@ -25,9 +25,9 @@ h1 { border-bottom:1px dotted grey }
 <div id="md-post">
 ## Hello World
 
-* 2023/05/26: [The Basic Laws](20230526-stupidity.md) { #notes, #featured }
-* 2023/05/26: [Imprecision](20230526-error.md) { #notes, #error }
 * 2023/05/26: [Truth-default Theory](20230526-truth-default.md) { #notes }
+* 2023/05/26: [Imprecision](20230526-error.md) { #notes }
+* 2023/05/26: [The Basic Laws of Human Stupidity](20230526-stupidity.md) { #notes }
 * 2023/05/25: [Perfectionism](20230525-perfectionism.md) { #notes }
 * 2023/05/25: [Vacation](20230525-day1.md) { #notes }
 

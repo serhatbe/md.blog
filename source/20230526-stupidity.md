@@ -1,9 +1,3 @@
----
-title: "Stupidity"
-keywords: 
-- stupidity
----
-
 ## The Basic Laws of Human Stupidity
 
 The basic laws assert that
