@@ -1,4 +1,2 @@
 ## About
-This is where I try to post regularly, for example my fleeting notes, literature notes, reference notes, permanent notes, etc. during the day.
-
-A new start which is marked by the day 15-May-2023. But there are notes that predate 15th of May, because the habit goes way back and the notes might appear as archived material.
+This is where I try to post regularly, for example my fleeting notes, literature notes, reference notes, permanent notes, etc. during the day. A new start which is marked by the day 15-May-2023. But there are notes that predate 15th of May, because the habit goes way back and the notes might appear as archived material.
