@@ -25,6 +25,7 @@ h1 { border-bottom:1px dotted grey }
 <div id="md-post">
 ## Hello World
 
+* 2023/06/17: [PechaKucha & Haiku](20230617-PechaKucha.md) { #notes, #Japan }
 * 2023/05/26: [Truth-default Theory](20230526-truth-default.md) { #notes }
 * 2023/05/26: [Imprecision](20230526-error.md) { #notes }
 * 2023/05/26: [The Basic Laws of Human Stupidity](20230526-stupidity.md) { #notes }
